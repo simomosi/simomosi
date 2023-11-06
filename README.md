@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello there!
+My name is **simomosi** and I'm a **Software Engineer**
 
-<!--
-**simomosi/simomosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fan of order and simplicity, so I will help you navigate and discover my projects:
+- ⚡ [dynamic forms](https://simomosi.github.io/dynamic-forms)
+  - it's a client library to automate progressive filtering and initialisation of dynamic fields in an easy and fast way
+  - written in TypeScript and Node.js with some Webpack magic ✨
+- 🎨 [portfolio](https://simomosi.github.io/)
+  - my personal portfolio with some technologies listes
+  - written in TypeScript with Next.js, a React framework
+  - implemented a Continuous Delivery workflow with github actions to automatically deploy on github pages everytime I make a change
+- 📸 [computer vision algorithms](https://github.com/simomosi/ComputerVision-Algorithms)
+  - Software for simple use of low-level Computer Vision Algorithms to clean and optimize photos
+- 🧠 [machine learning MNIST](https://github.com/simomosi/MachineLearning-MNIST)
+  - a Neural Network to recognise images with hand-written digits stored in the MNIST database 
+- 🔎 [treasure hunt](https://github.com/simomosi/treasure_hunt)
+  - online multiplayer treasure hunt game
+  - written client-server communication from scratch using C
+- 💾 see other projects in my profile (if you've read this far ask me about private ones 🔒)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been a contributor of the following open source projects:
+- [italia/bootstrap-italia](https://github.com/italia/bootstrap-italia)
+  - Fix typos in documentation ([link](https://github.com/italia/bootstrap-italia/pull/959))
+  - Reported missing functionalities in documentation ([link](https://github.com/italia/bootstrap-italia/issues/963))
+- [1hanzla100/developer-portfolio](https://github.com/1hanzla100/developer-portfolio)
+  - Made code modular with optional sections ([link](https://github.com/1hanzla100/developer-portfolio/issues/21))
+  - Implemented new functionalities ([link](https://github.com/1hanzla100/developer-portfolio/issues/23))
+  - Modified project structure fixing bad practices ([link](https://github.com/1hanzla100/developer-portfolio/issues/25))
