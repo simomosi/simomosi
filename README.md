@@ -8,10 +8,10 @@ I'm a fan of order and simplicity, so I will help you navigate and discover my p
 - 🏁 [advent of code](https://github.com/simomosi/advent_of_code)
   - my partecipation on the advent of code hackaton in 2022
   - solved using **Python**
-- 🎨 [portfolio](https://simomosi.github.io/)
+- 🎨 [react portfolio](https://simomosi.github.io/)
   - my personal portfolio with some technologies listed
   - written in **TypeScript** with **Next.js**, a **React** framework
-  - implemented a **Continuous Delivery** workflow with github actions to automatically deploy on github pages everytime I make a change
+  - implemented a **Continuous Delivery** workflow with **Github Actions** to automatically deploy on github pages everytime I make a change
 - 📸 [computer vision algorithms](https://github.com/simomosi/ComputerVision-Algorithms)
   - Software for simple use of low-level Computer Vision Algorithms to clean and optimize photos
 - 🧠 [machine learning MNIST](https://github.com/simomosi/MachineLearning-MNIST)
