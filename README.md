@@ -6,7 +6,7 @@ I'm a fan of order and simplicity, so I will help you navigate and discover my p
   - it's a client library to automate progressive filtering and initialisation of dynamic fields in an easy and fast way
   - written in **TypeScript** and **Node.js** with some **Webpack** magic ✨
 - 🏁 [advent of code](https://github.com/simomosi/advent_of_code)
-  - my partecipation on the advent of code hackaton in 2022
+  - my partecipation on the advent of code hackaton in 2022 and 2023
   - solved using **Python**
 - 🎨 [react portfolio](https://simomosi.github.io/)
   - my personal portfolio with some technologies listed
@@ -27,6 +27,7 @@ I've been a contributor of the following open source projects:
 - 📌 [italia/bootstrap-italia](https://github.com/italia/bootstrap-italia) - the frontend framework for italian public administration
   - Fix typos in documentation ([link](https://github.com/italia/bootstrap-italia/pull/959))
   - Reported missing functionalities in documentation ([link](https://github.com/italia/bootstrap-italia/issues/963))
+  - Found out inconsistent behavior across different browsers ([link](https://github.com/italia/bootstrap-italia/issues/1073))
 - 📌 [1hanzla100/developer-portfolio](https://github.com/1hanzla100/developer-portfolio) - a portfolio template for engineers
   - Made code modular with optional sections ([link](https://github.com/1hanzla100/developer-portfolio/issues/21))
   - Implemented new functionalities ([link](https://github.com/1hanzla100/developer-portfolio/issues/23))
