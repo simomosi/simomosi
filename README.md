@@ -19,6 +19,9 @@ I'm a fan of order and simplicity, so I will help you navigate and discover my p
 - 🔎 [treasure hunt](https://github.com/simomosi/treasure_hunt)
   - online multiplayer treasure hunt game
   - written client-server communication from scratch using **C**
+- 👾 [pokedex-vue](https://github.com/simomosi/pokedex-vue)
+  - it's a digital pokédex to get info about Pokémon!
+  - it's just a fun project to play with **Vue.js**
 - 💾 see other projects in my profile (if you've read this far ask me about private ones 🔒)
 
 ---
