@@ -12,6 +12,10 @@ I'm a fan of order and simplicity, so I will help you navigate and discover my p
   - my personal portfolio with some technologies listed
   - written in **TypeScript** with **Next.js**, a **React** framework
   - implemented a **Continuous Delivery** workflow with **Github Actions** to automatically deploy on github pages everytime I make a change
+- 📊 [simple budget tracker](https://github.com/simomosi/simple-budget-tracker)
+  - it's an app for budget tracking
+  - it shows my love for Personal Finance ❤️
+  - built in excel
 - 📸 [computer vision algorithms](https://github.com/simomosi/ComputerVision-Algorithms)
   - Software for simple use of low-level Computer Vision Algorithms to clean and optimize photos
 - 🧠 [machine learning MNIST](https://github.com/simomosi/MachineLearning-MNIST)
